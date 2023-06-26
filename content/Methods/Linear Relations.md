@@ -1,3 +1,0 @@
----
-title: Linear Relations
----
