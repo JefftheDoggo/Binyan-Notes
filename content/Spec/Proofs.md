@@ -1,3 +1,7 @@
+---
+title: Proofs
+---
+
 ## What proofs are
 Proofs can mean multiple things in different contexts, such as law, science, and mathematics.
 

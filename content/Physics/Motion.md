@@ -1,3 +1,7 @@
+---
+title: Motion
+---
+
 ## SUVAT Equations
 s - displacement (distance from origin)
 u - initial velocity (magnitiude + direction)

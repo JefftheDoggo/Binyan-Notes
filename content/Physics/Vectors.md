@@ -1,3 +1,7 @@
+---
+title: Vectors
+---
+
 ## Vectors
 Vectors have magnitude and direction, scalars just have magnitude
 

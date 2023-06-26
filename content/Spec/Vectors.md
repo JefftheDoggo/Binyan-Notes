@@ -1,3 +1,7 @@
+---
+title: Vectors
+---
+
 - [[#Representations of Vectors|Representations of Vectors]]
 - [[#Adding and Subtracting Vectors|Adding and Subtracting Vectors]]
 - [[#Vector Components|Vector Components]]

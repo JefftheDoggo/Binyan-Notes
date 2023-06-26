@@ -1,3 +1,7 @@
+---
+title: Waves
+---
+
 ## Types and Features of Waves
 There are 2 types of wave, longitudinal, and transverse.
 

@@ -1,3 +1,7 @@
+---
+title: Accuracy, Precision, and Error
+---
+
 ## Accuracy vs Precision
 Accuracy - Closeness to actual value (not possible, as measuring changes the system)
 Precision - Smallest unit of measurement of scale
