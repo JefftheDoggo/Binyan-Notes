@@ -6,7 +6,7 @@ title: Vectors
 - [[#Adding and Subtracting Vectors|Adding and Subtracting Vectors]]
 - [[#Vector Components|Vector Components]]
 - [[#Calculating the Magnitude and Direction|Calculating the Magnitude and Direction]]
-- [[#Extra stuff|Extra stuff]]
+- [[Y11 Spec/Vectors#Extra stuff|Vectors]]
 - [[#Position Vectors|Position Vectors]]
 - [[#Scalar (Dot) Product|Scalar (Dot) Product]]
 
