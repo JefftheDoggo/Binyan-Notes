@@ -1,6 +1,7 @@
 ---
 title: Linear Relations
 ---
+
 It is what it is my guy.
 
 You got the gradient (m) which is rise/run.
