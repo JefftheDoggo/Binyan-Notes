@@ -19,6 +19,6 @@ Here are some other good notes pages (I'm not in the town yet but they are good 
 
 Originally my notes were on OneNote (It was at this moment when I was making this page that Bajay realised I had copied most of his page) and some are still there. However, everything important is here. If you need anything else it's probably simple enough to honestly not need my amazing notes.
 
-Don’t be afraid to ask for my help for anything (except English and French), I’m a good listener, teacher and an Bajay copier.
+Don’t be afraid to ask for my help for anything (except English and French), I’m a good listener, teacher and a Bajay copier.
 
 Big thank you to Jacky Zhao the creator of Quartz in which this website runs off. I don’t know how it works, but it does.
