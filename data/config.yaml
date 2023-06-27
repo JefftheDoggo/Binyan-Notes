@@ -17,10 +17,8 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Binyans notes (infinitely better than Bajus)
-page_title:
-  "Binyan's Notes"
+description: Binyans notes (infinitely better than Bajus)
+page_title: "Binyan's Notes"
 links:
   - link_name: Twitter
     link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
