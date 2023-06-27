@@ -1,5 +1,5 @@
 ---
-title: Binyan Notes
+title: Binyan's Notes
 enableToc: false
 ---
 [[Y11 Methods]]
