@@ -3,7 +3,7 @@ title: Binyan's Notes
 enableToc: false
 ---
 
-Hello! I’m [[About me|Binyan]], this is my website of notes from Obsidian, which Bajay suggested I make. Thank you Bajay. If something seems off in this website, it was probably Bajay or Edward who did it. Thank you to [Bajay](https://baju-s.toomwn.xyz/) and [Edward](https://github.com/eddietheed) for being a massive help in setting this up!
+Hello! I’m [[Other/About me|Binyan]], this is my website of notes from Obsidian, which Bajay suggested I make. Thank you Bajay. If something seems off in this website, it was probably Bajay or Edward who did it. Thank you to [Bajay](https://baju-s.toomwn.xyz/) and [Edward](https://github.com/eddietheed) for being a massive help in setting this up!
 
 > [!info] Subjects
 > 
