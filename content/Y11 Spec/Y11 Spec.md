@@ -1,5 +1,5 @@
 ---
-title: Vectors
+title: Y11 Spec
 ---
 
 - [[Y11 Spec/Vectors|Vectors]]
