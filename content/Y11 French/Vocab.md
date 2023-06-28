@@ -1,0 +1,101 @@
+- Arriver à
+	- to be able to
+- Se rendre compte
+	- to realise
+- (se) lancer des défis
+	- to give a challenge
+- Bouger
+	- to move
+- Atteindre
+	- to reach
+- Un pas
+	- a step
+- Vibrer
+	- to vibrate
+- Sédentaire
+	- Inactive
+- Le train-train quotidienne
+	- the daily grind
+- Se résumer à
+	- to sum up to/to come down to
+- Aérer/oxygéner
+	- to aerate/to be outside
+- Le cerveau
+	- the brain
+- Le corps
+	- the body
+- Que ce soit
+	- whether it be
+- Se rappeler
+	- to remember
+- Non seulement
+	- not only
+- Passer le balai
+	- to sweep
+- Les factures
+	- the bills
+- Se déplacer
+	- to move around
+- En fin de compte
+	- at the end of the day
+- Faire la vaiselles
+	- washing dishes
+- Passer l'aspirateur
+	- vacumming
+- Mettre la table
+	- set the table
+- Sortir les poubelles
+	- putting out the bins
+- Faire la poussière
+	- dusting
+- Étendre le ligne
+	- Hang up the washing
+- Préparer le dîner/les repas/faire à mange/faire la cuisine
+	- cook
+- Faire du jardinage/tondre la pelouse
+	- gardening
+- Passer le serpillère
+	- to mop
+- Ranger sa chambre
+	- clean your room
+- Laver la voiture
+	- wash the car
+- Maux liés
+	- troubles
+- Idleness - l'inactivité
+- Entretenir
+	- to maintain
+- En plein air
+	- outside
+- Nombreux
+	- a lot
+- Y compris
+	- including
+- Éconmiser
+	- to save
+- Abandonner
+	- to give up
+- Comporter
+	- to include
+- Ajouter
+	- to add to
+- Sous-estimée 
+	- underestimate
+- Bénéfique
+	- beneficial
+- Imprévues
+	- unexpected
+- Résoudre
+	- solve
+- Élargir
+	- Enlarge
+- Gérer
+	- to manage
+- Anxiogène
+	- anxiety
+- Sentir
+	- feel
+- Effiface
+	- efficient
+- Enseignants
+	- teachers
