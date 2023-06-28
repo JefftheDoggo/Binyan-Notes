@@ -1,3 +1,7 @@
+## Word list
+
+Good luck, this is just the words I wrote down. Most of the others are pretty similar to English but sometimes I just wasn't listening in class and missed a few. These are the important ones though (except like basic stuff for grammar)
+
 - Arriver à
 	- to be able to
 - Se rendre compte
