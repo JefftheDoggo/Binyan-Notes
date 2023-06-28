@@ -20,6 +20,7 @@ They work like any other functions.
 
 If you need more help you fucking moron: https://www.purplemath.com/modules/grphtrig.htm
 ## Trig Identities
+
 - Addition/subtraction
 	- Sin
 		- $sin(a\pm b) = sin(a)cos(b) \pm sin(b)cos(a)$
@@ -32,7 +33,7 @@ If you need more help you fucking moron: https://www.purplemath.com/modules/grph
 		- $sin(2a) = 2sin(a)cos(a)$
 	- Cos
 		- $cos(2a) = cos^2(a)-sin^2(a)$
-		-               $= 2cos^2(a)-1$
-		-               $= 1-2sin^2(a)$
+			- $\ \ \ \ \ = 2cos^2(a)-1$
+			- $\ \ \ \ \ = 1-2sin^2(a)$
 	- Tan
 		- $tan(2a) = \frac{2tan(a)}{1-tan^2(a)}$
