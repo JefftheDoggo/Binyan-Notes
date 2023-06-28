@@ -1,2 +1,2 @@
-[[Speaking]]
-[[Vocab]]
+- [[Speaking]]
+- [[Vocab]]
