@@ -11,7 +11,7 @@ Some of this is actually good notes, and some of the other parts are just parody
 > 
 > - [[Y11 Methods/Y11 Methods|Y11 Methods]]
 > - [[Y11 Spec/Y11 Spec|Y11 Spec]]
-> - [[Y11 Physics/Y11 Physics|Y11Physics]]
+> - [[Y11 Physics/Y11 Physics|Y11 Physics]]
 > - [[Y11 Engineering Studies/Y11 Engineering Studies|Y11 Engineering Studies]]
 > - [[Y11 English/Y11 English|Y11 English]]
 > - [[Y11 French/Y11 French|Y11 French]]
