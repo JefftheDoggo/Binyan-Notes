@@ -7,7 +7,11 @@ Hello! I’m [[Other/About me|Binyan]], this is my website of notes from Obsidi
 
 Some of this is still under construction, especially some sections of the French and Engineering parts, but they'll be up as soon as I finish transferring all my notes to obsidian.
 
-> [!info] Subjects
+Also I'm just gonna put anything I'm working on here not just notes.
+
+DISCLAIMER: There have been some allegations that some of these notes are stolen. This is simply untrue, all of these notes are completely my own. 
+
+> [!info] Sections
 > 
 > - [[Y11 Methods/Y11 Methods|Y11 Methods]]
 > - [[Y11 Spec/Y11 Spec|Y11 Spec]]
@@ -15,6 +19,7 @@ Some of this is still under construction, especially some sections of the French
 > - [[Y11 Engineering Studies/Y11 Engineering Studies|Y11 Engineering Studies]]
 > - [[Y11 English/Y11 English|Y11 English]]
 > - [[Y11 French/Y11 French|Y11 French]]
+> - [[Game Review/Game Review|Game Review]]
 
 Here are some other good notes pages (I'm not in the town yet but they are good sites):
 > [!info] [Town sites](https://baju-s.toomwn.xyz/-Home-Page/Other-Town-Sites)
