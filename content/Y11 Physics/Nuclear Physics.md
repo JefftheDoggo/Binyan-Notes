@@ -39,7 +39,7 @@ Nuclei with a large binding energy per nucleon are most stable. Smaller nuclei w
 - U-238 is not fissile, but is fertile as it can transmutate into Pu-239 which is fissile when it absorbs a fast neutron, which is produced by the fission of U-235.
 - Pu-239 is produced from U-238 absorbing a neutron and produced a similar amount of energy to U-235 when is undergoes fission.
 
-#### Issues:
+#### Issues with making nuclear power:
 - Neutrons emitted by uranium-235 (fuel) are very fast but uranium-235 is most fissile when irradiated by **slow-moving neutrons**
     - The emitted neutrons need to be slowed down to continue an efficient chain reaction
 - Uranium-235 fission emits an average of 2.47 neutrons which need to be controlled as **it could cause an explosion**
@@ -50,7 +50,6 @@ Nuclei with a large binding energy per nucleon are most stable. Smaller nuclei w
 
 - Fuel Rods
 	- Fuel rods are long, thin rods the contain pellets of enriched uranium
-	- The fuel rods need to be able to sustain their own chain reaction
 	- Fuel rods use uranium with 4% uranium-235
 		- The enriched uranium (in pellet form) is packed into a thin aluminium tube 3-5 metres long
 	- A large nuclear reactor has over 1000 fuel rods in its core
@@ -58,22 +57,20 @@ Nuclei with a large binding energy per nucleon are most stable. Smaller nuclei w
 
 - Moderator
     - A material that slows down the neutrons (easier to be captured by nuclides)
-        - e.g. water, heavy water, graphite, carbon dioxide
+        - Water, heavy water, graphite, carbon dioxide
             - Heavy water is the most effective moderator but is also the most expensive
             - Water is the cheapest but absorbs a lot of neutrons reducing the extent of the chain reaction
 
 - Control Rods
-    - A nuclear reactor can also produce great amounts of energy but the energy release must be controlled
-        - This is achieved by controlling the number of neutrons that are involved in the fission chain reaction
+    - A nuclear reactor can also produce great amounts of energy but the energy release must be controlled by restricting how many neutrons go on to be absorbed by a U-235 nucleus
     - Control rods are material that absorbs excess neutrons
-        - e.g. cadmium, boron steel
+        - Made of cadmium or boron steel
             - When a neutron strikes a control rod, it is absorbed into the nucleus of the material
 
 Coolant
 
-- The core of a nuclear reactor can reach very high temperature (500-1500°\degree°C)
-- The coolant is a liquid that run through pipes to absorb heat energy that has been produced from the core
-    - e.g. water, heavy liquid, carbon dioxide, liquid sodium
+- The coolant is a liquid that run through pipes to absorb heat energy that has been produced from the core to keep it from overheating
+    - Water, heavy water, carbon dioxide, liquid sodium
 
 - Heat Exchanger
     - A heat exchanger transfers the heat created in the reactor into pipes containing water
@@ -81,22 +78,20 @@ Coolant
 
 - Radiation Shield
     - The radiation shield protects workers and the surrounding environment from exposure to radiation leaks from the core of the reactor
-        - e.g. lead, concrete, graphite
+        - Made of lead, concrete and graphite
 
 #### Nuclear Waste Management
 
 - Low Level Waste
-    - e.g. protective clothing, wrappings, containers of isotopes
-    - Processed by incineration, burying and _flushing_
+    - Things that have been around radiation
+    - Processed by burning
 - Medium Level Waste
-    - e.g. reactor component, chemical sludge
-    - Processed by solidifying in concrete or burying
+    - Things that have been around radiation for extended periods
+    - Processed by solidifying in concrete/burying
 - High Level Waste
-    - e.g. spent rods, liquid waste
+    - Things that are literally radiating
     - Processed by coolant ponds or kept in secure storage
-        - Spent fuel rods can be repurposed into new fuel, however the process is very expensive
-    - High-level waste must be stored permanently due to how long the half-lives are for the radioactive materials
-    - 
+    - Must be stored permanently due to how long the half-lives are for the radioactive materials
 ## Pros and Cons of Nuclear Power
 - Cons:
 	- Nuclear Weapons proliferation
