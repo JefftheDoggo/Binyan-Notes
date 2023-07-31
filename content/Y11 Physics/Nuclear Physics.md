@@ -18,6 +18,16 @@
 ## Nuclear Equations
 Remember to balance it right or you'll get it wrong. Refer to the types of radiation to figure out what type happened.
 ## Properties of Radiation
+|   |   |   |   |
+|---|---|---|---|
+|Property|α ray|β ray|γ ray|
+|Nature|Positive charged particles, 2He 4 nucleus|Negatively charged particles (electrons).|Uncharged ?~0.01a, electromagnetic radiation|
+|Charge|+2e|–e|0|
+|Mass|6.6466 × 10–27 kg|9.109 × 10–31 kg|0|
+|Range|~10 cm in air, can be stopped by 1mm of Aluminium|Upto a few m in air, can be stopped by a thin layer of Aluminium|Several m in air, can be stopped by a thick layer of Lead|
+|Natural Sources|By natural radioisotopes e.g.92U236|By radioisotopes e.g.29Co68|Excited nuclei formed as a result of Gamma decay| 
+
+
 ## Half-Life
 When a radioactive element decays, the number of radioactive nuclei decreases with time. The time it takes for the number of radioactive nuclei to decrease to half its original amount is called its half-life.
 
