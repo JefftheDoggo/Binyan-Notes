@@ -1,12 +1,17 @@
 ---
 title: Vectors
+tags:
+  - school
+  - year_11
+  - spec
+  - finished
 ---
 
 - [[#Representations of Vectors|Representations of Vectors]]
 - [[#Adding and Subtracting Vectors|Adding and Subtracting Vectors]]
 - [[#Vector Components|Vector Components]]
 - [[#Calculating the Magnitude and Direction|Calculating the Magnitude and Direction]]
-- [[Y11 Spec/Vectors#Extra stuff|Vectors]]
+- [[Y11 Math/Spec/Vectors#Extra stuff|Vectors]]
 - [[#Position Vectors|Position Vectors]]
 - [[#Scalar (Dot) Product|Scalar (Dot) Product]]
 

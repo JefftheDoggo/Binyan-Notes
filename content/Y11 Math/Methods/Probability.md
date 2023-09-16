@@ -1,5 +1,10 @@
 ---
 title: Probability
+tags:
+  - school
+  - year_11
+  - methods
+  - finished
 ---
 Probability equations:
 

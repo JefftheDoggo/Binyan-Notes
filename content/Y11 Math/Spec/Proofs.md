@@ -1,5 +1,10 @@
 ---
 title: Proofs
+tags:
+  - school
+  - year_11
+  - spec
+  - finished
 ---
 
 ## What proofs are

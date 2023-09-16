@@ -1,3 +1,10 @@
+---
+tags:
+  - finished
+  - school
+  - year_11
+  - physics
+---
 ## Charges
 ### Static Charge
 - Charge is a **property of matter**

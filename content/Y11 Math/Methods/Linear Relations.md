@@ -1,5 +1,10 @@
 ---
 title: Linear Relations
+tags:
+  - school
+  - year_11
+  - methods
+  - finished
 ---
 
 It is what it is my guy.

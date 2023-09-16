@@ -1,5 +1,10 @@
 ---
 title: Waves
+tags:
+  - school
+  - year_11
+  - finished
+  - physics
 ---
 
 ## Types and Features of Waves

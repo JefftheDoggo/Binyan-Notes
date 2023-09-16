@@ -1,3 +1,10 @@
+---
+tags:
+  - year_11
+  - school
+  - finished
+  - physics
+---
 ## Decay
 - When a radioisotope (A radioactive isotope (same element, different mass number (different neutrons))) undergoes radioactive decay, it will emit a high-energy particle or wave (radiation), there are several types of particles/waves emitted during radioactive decay:
 	- Alpha Particles - $\alpha$ 
@@ -18,14 +25,14 @@
 ## Nuclear Equations
 Remember to balance it right or you'll get it wrong. Refer to the types of radiation to figure out what type happened.
 ## Properties of Radiation
-|   |   |   |   |
-|---|---|---|---|
-|Property|α ray|β ray|γ ray|
-|Nature|Positive charged particles, 2He 4 nucleus|Negatively charged particles (electrons).|Uncharged ?~0.01a, electromagnetic radiation|
-|Charge|+2e|–e|0|
-|Mass|6.6466 × 10–27 kg|9.109 × 10–31 kg|0|
-|Range|~10 cm in air, can be stopped by 1mm of Aluminium|Upto a few m in air, can be stopped by a thin layer of Aluminium|Several m in air, can be stopped by a thick layer of Lead|
-|Natural Sources|By natural radioisotopes e.g.92U236|By radioisotopes e.g.29Co68|Excited nuclei formed as a result of Gamma decay| 
+
+| Property        | α ray                                             | β ray                                                            | γ ray                                                     |
+| --------------- | ------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
+| Nature          | Positive charged particles, 2He 4 nucleus         | Negatively charged particles (electrons).                        | Uncharged ~0.01a, electromagnetic radiation              |
+| Charge          | +2e                                               | –e                                                               | 0                                                         |
+| Mass            | 6.6466 × 10–27 kg                                 | 9.109 × 10–31 kg                                                 | 0                                                         |
+| Range           | ~10 cm in air, can be stopped by 1mm of Aluminium | Upto a few m in air, can be stopped by a thin layer of Aluminium | Several m in air, can be stopped by a thick layer of Lead |
+| Natural Sources | By natural radioisotopes e.g.92U236               | By radioisotopes e.g.29Co68                                      | Excited nuclei formed as a result of Gamma decay          |
 
 
 ## Half-Life

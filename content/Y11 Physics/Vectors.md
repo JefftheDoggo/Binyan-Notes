@@ -1,5 +1,10 @@
 ---
 title: Vectors
+tags:
+  - school
+  - year_11
+  - finished
+  - physics
 ---
 
 ## Vectors

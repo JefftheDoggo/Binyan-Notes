@@ -1,5 +1,10 @@
 ---
 title: Polynomials and other functions
+tags:
+  - school
+  - year_11
+  - methods
+  - finished
 ---
 ## What is a polynomial?
 

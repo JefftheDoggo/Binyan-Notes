@@ -1,3 +1,10 @@
+---
+tags:
+  - school
+  - year_11
+  - french
+  - ongoing
+---
 ## Questions
 
 - Comment pourriez-vous améliorer votre routine pour avoir de meilleurs résultats à l’école?

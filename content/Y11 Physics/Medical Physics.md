@@ -1,3 +1,11 @@
+---
+tags:
+  - report
+  - year_11
+  - school
+  - physics
+  - finished
+---
 ## Uses of Radioisotopes in Diagnostic Imaging:
 
 A gamma camera or SPECT camera (fig.1) is a camera that detects flashing light (scintillons) produced by gamma rays interacting with a sodium iodide (NaI) crystal at the front of the camera. The gamma camera detects the energy from a radiotracer in your body and converts it into an image, it has radiation detectors called gamma camera heads.  A radiotracer is a radioactive tracer made from a  chemical compound in which one or more atoms have been replaced by a radioisotope. The gamma camera itself does not emit any radiation, only detects gamma radiation from the tracer

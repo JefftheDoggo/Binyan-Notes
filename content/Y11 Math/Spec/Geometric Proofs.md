@@ -1,3 +1,10 @@
+---
+tags:
+  - school
+  - year_11
+  - spec
+  - finished
+---
 ## Circle Proofs
 
 This is just a list of axioms. Use them to try and prove shit ig

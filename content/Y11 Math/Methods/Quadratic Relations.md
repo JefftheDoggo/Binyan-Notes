@@ -1,5 +1,10 @@
 ---
 title: Quadratic Relations
+tags:
+  - school
+  - year_11
+  - methods
+  - finished
 ---
 ## Finding the key points
 

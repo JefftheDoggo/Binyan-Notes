@@ -1,5 +1,10 @@
 ---
 title: Accuracy, Precision, and Error
+tags:
+  - finished
+  - year_11
+  - physics
+  - school
 ---
 
 ## Accuracy vs Precision

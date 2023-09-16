@@ -1,3 +1,10 @@
+---
+tags:
+  - school
+  - year_11
+  - finished
+  - engineering
+---
 ## Components
 
 These all have symbols but putting them in obsidian would kill me so the names and the functions are here. Most of them will be in the data booklet, and others a reasonably easy to search up.

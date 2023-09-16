@@ -1,3 +1,10 @@
+---
+tags:
+  - school
+  - year_11
+  - english
+  - finished
+---
 ## Quotes + Analysis
 
 - "It is early morning, and their grins are so wide that it seems they all went to bed with clothes-hangers shoved in their mouths…" (p. 7 - see also descriptions on ensuing pages, and the allusion to Alice in Wonderland on page 16)

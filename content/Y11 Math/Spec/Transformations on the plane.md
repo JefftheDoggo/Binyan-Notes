@@ -1,3 +1,10 @@
+---
+tags:
+  - school
+  - year_11
+  - spec
+  - finished
+---
 ## Linear transformations and Matrices
 
 - A coordinate can be expressed as a $2 \times 1$ matrix $[{x \atop y}]$
@@ -16,8 +23,17 @@ A reflection across an axis can be represented with matrix multiplication:
 ## Dilation
 
 - Reflection is like a special case for dilation. 
-## Projection
+- You can dilate across the x-axis, or across the y-axis
+- A horizontal dilation parallel to the x-axis can be represented with the matrix transformation
+	- $[{c \atop 0}{0 \atop 1}]$  where c is the scale factor
+- A vertical dilation parallel to the y-axis can be represented with the matrix transformation
+	- $[{1 \atop 0}{0 \atop c}]$  where c is the scale factor
 
 ## Translation
+- Translation can be represented with addition of a matrix to a set of points.
+-  $[{x \atop y}]+[{1 \atop 1}]$ represents a translation right 1 unit, and up one unit
+- These matrices can be expanded to fit as many points as needed.
 
 ## Rotation
+
+A rotation of  $\theta ˚$ anticlockwise can be made by multiplying your matrix by $[{\cos \theta \atop \sin  \theta}{-\sin  \theta \atop \cos  \theta}]$ 

@@ -1,5 +1,10 @@
 ---
 title: Motion
+tags:
+  - school
+  - year_11
+  - finished
+  - physics
 ---
 
 ## SUVAT Equations
