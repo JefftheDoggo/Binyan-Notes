@@ -8,6 +8,7 @@ tags:
   - school
   - english
   - year_11
+  - subjectpage
 ---
 <div class="title" style="color:white">English</div>
 

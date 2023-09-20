@@ -1,6 +1,8 @@
 ---
 title: Binyan's Notes
 enableToc: false
+tags:
+  - navigation
 ---
 
 Hello! I’m Binyan, this is my website of notes and other things I put in Obsidian. Thank you to [Bajay](https://baju-s.toomwn.xyz/) for being a massive help in setting this up!

@@ -6,7 +6,7 @@ obsidianUIMode: preview
 cssclasses:
   - dashboard
 banner: "![[Homepage.png]]"
-banner_y: 0
+banner_y: -3
 ---
 <div class="title" style="color:white">Dashboard</div>
 
@@ -24,6 +24,10 @@ banner_y: 0
 `$=dv.list(dv.pages('#conlang').sort(f=>f.file.ctime,"desc").limit(5).file.link)`
 - [[Reviews]]
 `$=dv.list(dv.pages('#review').sort(f=>f.file.ctime,"desc").limit(5).file.link)`
+- [[Dr Waters Quotes]]
+
+### Navigation
+- [[Templates]]
 
 ### Vault Info
 - Recent file updates

@@ -8,6 +8,7 @@ tags:
   - school
   - year_11
   - spec
+  - subjectpage
 ---
 <div class="title" style="color:white">Spec</div>
 
@@ -16,5 +17,6 @@ tags:
 - [[Geometric Proofs|Geometric Proofs]]
 - [[Matrices|Matrices]]
 - [[Transformations on the plane|Transformation Matrices]]
+- [[Induction]]
 - [[Trig|Trig]]
 - [[Complex Numbers]]

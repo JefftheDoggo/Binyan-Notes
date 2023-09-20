@@ -12,9 +12,6 @@ A gamma camera or SPECT camera (fig.1) is a camera that detects flashing light (
 
 Positron emission tomography (PET) scans are a medical imaging procedure that provides unique information about how an organ or system in the body is working. PET scans are mainly used to assess cancers, neurological (brain) diseases and cardiovascular (heart-related) disease. It works by detecting where sugar is being used in the body. The sugar is injected into the body with some radioisotopes in it, and tracked through the body by detecting the radiation. Malignant tissues generally use more glucose, so this can be used to detect these tissues.
 
-![Physics revision | GCSE and A Level Physics Revision | Cyberphysics, the  revision website](file:////Users/abhigyan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.gif)
-
-_Figure 1. A gamma camera_
 
 ## Use of Radioisotopes in Therapeutic Treatments
 
@@ -22,9 +19,6 @@ Radioisotopes can be used to kill cancer cells. As the radioisotope begins to de
 
 One method of doing this is using the gamma knife. Gamma knife (fig.2) uses very precise beams of gamma rays to treat areas of disease. The very intense radiation makes it possible to treat internal issues without an incision, but radiosurgery is very risky can prevent cell growth.
 
-![Gamma Knife® stereotactic radiosurgery | Great Ormond Street Hospital](file:////Users/abhigyan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
-
-_Figure 2. A gamma knife_
 
 ## Production of Radioisotopes for Medicine
 
@@ -34,9 +28,6 @@ The most commonly used radioisotope in medicine is technetium-99m, which is pro
 
 Technetium-99m’s short half-life (6 hours) and weak gamma ray emission makes it ideal for imagin the body to detect disease, without causing too much damage to the body tissue.
 
-![Cyclotron - W3schools](file:////Users/abhigyan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg)
-
-_Figure 3. A cylotron_
 
 ## Proton Therapy
 
@@ -46,16 +37,11 @@ As protons move through the body, they attract electrons, which have a negative 
 
 By changing the energy of the proton when it is launched, we can change the depth the protons slow down at and where most of the radiation is released. Because the most interactions are at this point, proton therapy can accurately target specific areas of the body and not healthy tissues.
 
-![](file:////Users/abhigyan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
-
-_Figure 4. The Bragg Peak_
 
 ## Fast Neutron Therapy
 
 Fast neutron therapy is used for specific diseases that are “radioresistant”, i.e. they are not easily removed by conventions forms of radiotherapy. Fast neutrons are variably reactive with different tissues, affecting cancerous tissue more than healthy tissue. This means a lethal dose for the diseased cells is not a lethal dose for other cells, meaning it can be used to treat disease.
 
-![[Pasted image 20230627140031.png]]
-Figure 5. A room used for neutron therapy
 
 ## Radiation Dosimetry
 

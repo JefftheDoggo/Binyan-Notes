@@ -1,3 +1,12 @@
+---
+title: "{{title}}"
+tags:
+  - personalproject
+  - review
+  - finished
+creation date:
+  - "{{date:YYYY-MM-DD}}"
+---
 4/5
 
 I believe that Oppenheimer could easily be the best film of this year. I think that the sex scenes were less than necessary in some places, though some were done appropriately and in consideration for their place in the story. The sound design was magnificent, and I personally think that it is a strong contender for the best sound design of this year (opposed only by Across the Spiderverse). I loved the scene where the bomb exploded, very realistic, and I wasn't at all surprised that it was practical. 
